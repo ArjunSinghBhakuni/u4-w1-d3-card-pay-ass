@@ -1,0 +1,32 @@
+.container{
+ margin: auto;
+ padding: 10px 20px;
+ 
+ width: 600px;
+ height: 300px;
+ box-sizing: border-box;
+ margin-top: 20px;
+}
+.yellow{
+ background-color: yellow;
+ 
+}
+.grey{
+ background-color: grey;
+ 
+}
+.flex{
+ display: flex;
+ justify-content: space-between;
+}
+.img{
+ width: 50;
+ height: 50px;
+}
+.btn{
+ border: 0px;
+ color: white;
+ background-color: black;
+ padding: 10px 10px;
+ font: 40px;
+}
